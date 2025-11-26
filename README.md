@@ -29,7 +29,9 @@ e-zpassin is a lightweight and efficient expense tracking application designed f
 
 ## Author
 Name: Michele Woody 
+
 Email: michelwoody433@outlook.com 
+
 Website: e-zpassin  
 
 Bio:  
